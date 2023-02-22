@@ -1,7 +1,7 @@
 # BDIVS LAb 1: getting started with compressed sensing
 
 ## Installation instruction
-- Open a terminal in /home/bdivs/bdivs_lab1
+- Open a terminal in /home/bdivs
 - Clone this repository: `git clone https://github.com/cda-gti-upm/bdivs-lab1.git`
 - Create a conda virtual enviroment: `conda env create -f bdivs_lab1.yml`
 
