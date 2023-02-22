@@ -8,6 +8,6 @@
 
 ## Executing the scripts
 - Open a terminal in /home/BDIVS/bdivs_lab1
-- Activate conda environment with: `/home/BDIVS/anaconda3/bin/conda activate bdivs_lab1`
+- Activate conda environment with: `conda activate bdivs_lab1`
 - Open jupyter notebook: `jupyter notebook`
 - In the Jupyter environment, open and execute the scripts.
